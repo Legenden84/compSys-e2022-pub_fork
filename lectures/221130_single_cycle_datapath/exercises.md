@@ -27,6 +27,8 @@ COD: 4.5, men med instruktionen 0x00c6aa23.
 =======
 >>>>>>> 2f5dc41 (Add comment to last weeks exercises)
 
+
+
 Prøv også at bruge Ripes til at at løse denne opgave.
 Er Ripes og COD enige i deres beskrivelse af maskinen.
 
