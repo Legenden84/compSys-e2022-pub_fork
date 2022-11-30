@@ -2,6 +2,11 @@
 
 COD: 4.1
 
+Consider the following instruction:
+Instruction: and rd, rs1, rs2
+Interpretation: Reg[rd] = Reg[rs1] AND Reg[rs2]
+
+
 Download "Ripes" simulatoren.
 https://github.com/mortbopet/Ripes/releases
 
@@ -13,6 +18,8 @@ NB: Vælg "32-bit single cycle" processor i menuen.
 COD: 4.2
 
 COD: 4.5
+
+
 
 Prøv også at bruge Ripes til at at løse denne opgave.
 Er Ripes og COD enige i deres beskrivelse af maskinen.
