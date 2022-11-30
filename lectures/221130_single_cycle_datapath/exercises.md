@@ -19,6 +19,8 @@ COD: 4.2
 
 COD: 4.5
 
+
+
 Prøv også at bruge Ripes til at at løse denne opgave.
 Er Ripes og COD enige i deres beskrivelse af maskinen.
 
