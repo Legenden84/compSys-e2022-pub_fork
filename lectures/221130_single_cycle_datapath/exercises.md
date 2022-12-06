@@ -17,7 +17,7 @@ NB: Vælg "32-bit single cycle" processor i menuen.
 
 COD: 4.2
 
-COD: 4.5
+COD: 4.5, men med instruktionen 0x00c6aa23.
 
 
 
